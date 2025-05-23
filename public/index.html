@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/asdgs_icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="ASD Graduation Showcase 2023"
+      content="Architecture ASD SUTD Graduation Showcase 2023"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/asdgs_icon.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>ASD Gradshow 2023</title>
+  </head>
+  <body id="content" onload="fnBrowserDetect()">
+    <div id="myModal" class="modal">
+      <div class="modal-content">
+        <p>💡 Use Google Chrome for the best viewing experience!</p>
+        <span class="close">&times;</span>
+      </div>
+    </div>
+
+    <script>
+      var modal = document.getElementById("myModal");
+      var span = document.getElementsByClassName("close")[0];
+      span.onclick = function () {
+        modal.style.display = "none";
+      };
+      window.onclick = function (event) {
+        if (event.target == modal) {
+          modal.style.display = "none";
+        }
+      };
+      function fnBrowserDetect() {
+        let userAgent = navigator.userAgent;
+        let browserName;
+
+        if (userAgent.match(/chrome|chromium|crios/i)) {
+          browserName = "chrome";
+        } else if (userAgent.match(/firefox|fxios/i)) {
+          browserName = "firefox";
+        } else if (userAgent.match(/safari/i)) {
+          browserName = "safari";
+        } else if (userAgent.match(/opr\//i)) {
+          browserName = "opera";
+        } else if (userAgent.match(/edg/i)) {
+          browserName = "edge";
+        } else {
+          browserName = "No browser detection";
+        }
+        if (
+          browserName === "firefox" ||
+          browserName === "safari" ||
+          browserName === "opera" ||
+          browserName === "edge"
+        ) {
+          modal.style.display = "flex";
+        } else {
+        }
+      }
+    </script>
+
+    <div id="root"></div>
+    <!--      do not delete this!-->
+
+    <!-- Import maps polyfill -->
+    <!-- Remove this when import maps will be widely supported -->
+    <script
+      async
+      src="https://unpkg.com/es-module-shims@1.3.6/dist/es-module-shims.js"
+    ></script>
+  </body>
+</html>
