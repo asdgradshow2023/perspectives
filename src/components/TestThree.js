@@ -1785,6 +1785,8 @@ export function TestThree({ pagetype, loadingText, additionalLoading }) {
     function animate() {
       requestAnimationFrame(animate);
       camera.rotation.z += 0.0015; //for spinning
+      //camera.rotation.y += 0.005; //test y-dir
+      //camera.rotation.x += 0.001; //test x-dir
       renderer.render(scene, camera);
       renderer2.render(scene2, camera);
       renderer2.render(sceneC, camera);
