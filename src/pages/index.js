@@ -1,0 +1,12 @@
+export { App } from "./App";
+export { ErrorPage } from "./Error";
+export { AllProjectsPage } from "./AllProjectsPage";
+export { ProjectPage } from "./ProjectPage";
+export { StudentPage } from "./StudentPage";
+export { AllStudentsPage } from "./AllStudentsPage";
+export { RootPage } from "./RootPage";
+export { AboutPage } from "./AboutPage";
+export { RootAboutPage } from "./RootAboutPage";
+export { MessagePage } from "./MessagePage";
+export { DonorPage } from "./DonorPage";
+export { TeamPage } from "./TeamPage";
