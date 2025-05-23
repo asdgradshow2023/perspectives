@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "name": "Andrea Ling",
+      "role": "Director",
+      "image": "student_images/1004667-pic.jpg",
+      "blurhash": "yEEV7~xp.7I:a0ofS2NZNG+^t6aes:s;01ahE1soo#RjNG9uxaS}xGNwspNHO?n$tRV[RjbbR*RkbcNFSNs,R+oyaet7soSfxZR-s:"
+    },
+    {
+      "name": "Daniel Whittaker",
+      "role": "Faculty Advisor",
+      "image": "about_images/about-daniel.jpg",
+      "blurhash": "y45E$[%M004n%M_3xuxuofRjRjofofj[4nM{?b-;RjD%M{IUWBxut7WBWBWBayofofWBM{WBt7j[j[j[j[WBWBfQayayayj[ofj[ay"
+    },
+    {
+      "name": "Megan Lee",
+      "role": "Curation",
+      "image": "student_images/1004425-pic.jpg",
+      "blurhash": "yJCY~}NG0eIosS%2xaE1j?NG%1xuM|Io0K%M%MIoxuxZWBR*E1?Gt7D*of%2x]s:Rj%2IURjs:M{xtRjM{%2NGj[s9NGt7kCxaoJM{"
+    },
+    {
+      "name": "Teo Jiawen",
+      "role": "Curation",
+      "image": "student_images/1004346-pic.jpg",
+      "blurhash": "ypJH2n-p%N%3avt8NF^nt7WFs=R$WCR*f-ofNFWARkWAt8ozbFoaWUa~oes:oNWCaxa#jcofoeogofR*ayofayWBofj?WBaxoMoeR*"
+    },
+    {
+      "name": "Nasrin Fotohi",
+      "role": "Publicity",
+      "image": "student_images/1004462-pic.jpg",
+      "blurhash": "yYMZN]-l-=9bM{%M$y}?NeV@xVn%n$j[v$R.s9%0bYNHoyx[xYNdNGs:kVV@R*WWWVkCofWBV[niWBaesmS4njkCw]bcn$ozofRkRk"
+    },
+    {
+      "name": "Peter David",
+      "role": "Publicity",
+      "image": "student_images/1004325-pic.jpg",
+      "blurhash": "yLGu{_4:$~t6E3adWB_2M|t6M|jFt7fl9cocogbJxtWVRjN1NHofoIRkt6M|n|IWM_oeRlt7R*~VWBWVofM|WBoJ-:s,ofWBRjf6af"
+    },
+    {
+      "name": "Levona Chan",
+      "role": "Publicity",
+      "image": "student_images/1004460-pic.jpg",
+      "blurhash": "yTLD.Fvd%$_N%2of%M%%xsx^o~NxNHNGksxtt7bIW=RPRPT2RjM|Rje-xtxWXURPRjWBoJV@V@ohozadofjFbHWAtRt7jYjuj?jbWV"
+    },
+    {
+      "name": "Valent Tan",
+      "role": "Website",
+      "image": "student_images/1004378-pic.jpg",
+      "blurhash": "yRIg}?#QNFM_OsIpxGT0nhbIWB-oe.R*0eNxs:xuoMn$tR-TxuWBWBR.WBj[IVozjFofr=ofWBWnWBjtj]M|R*ozbbM{NbNGNGbIV@"
+    },
+    {
+      "name": "Sharmayne Lim",
+      "role": "Website",
+      "image": "student_images/1004491-pic.jpg",
+      "blurhash": "yhHx.}t6-:W=ahofNG.T%1RnofV@oexttTR*RPWBozWBWBM}WCjYoLa}fPafM{RkofbHWVoLfkM|WCR+fPoLoej[Rkfka#WBWBj@bH"
+    },
+    {
+      "name": "Goh Yi Ern",
+      "role": "Website",
+      "image": "about_images/about-yiern.jpg",
+      "blurhash": "yeGlrH.8cGNdROV@V?.AX9t7t7bHaef6TfV[V@oLoKozozx^RPRjjFoLj[fltSV@adWARkWBjZkXaeWBa{ozofWUkDWUoJoKkDWqa|"
+    },
+    {
+      "name": "Joshua Ng",
+      "role": "Fabrication",
+      "image": "student_images/1004320-pic.jpg",
+      "blurhash": "yNHfSaxV?wozMvxt%NpL%LD%M{%Mj[RPM~-PD%M|bcWYWB-Pxst8xuM|WCocR*o#kXWAs.RjWBt7bdM{RjV@j[kD%KM{RjozR+kDof"
+    },
+    {
+      "name": "Aaron Soares",
+      "role": "Fabrication",
+      "image": "student_images/1004280-pic.jpg",
+      "blurhash": "yfF?n--:_4xts*kCofxwogMwWCRkWBognzaej]WBWZazV?M|RkNHR*Rij[t7WAWBayWBayofkDWBs:j]j[j[jtaeWXWBWBWBa|a|az"
+    },
+    {
+      "name": "Kuan Yi Heng",
+      "role": "Fabrication",
+      "image": "student_images/1004102-pic.jpg",
+      "blurhash": "yODviwRj4moz%MRjSh9tt7kDRjoffljYjBof%NjYM{ofWCEMWoxZRkR+WBoJ%Ls.Rkt7RjR*t7WBRkWBt7t7WARjt7s.WBR+ofWWax"
+    },
+    {
+      "name": "Gan Jia Jie",
+      "role": "Fabrication",
+      "image": "about_images/about-jiajie.jpg",
+      "blurhash": "ycOpfBxu~pt6oJxuIV~Vj[E1fRIUWB-pRkfkRPjt%MayM{WrayoJoLt7ayM|xtj[NGazaefQofoJj[kCWVafj[ofM|fQxaa{WBjtWC"
+    },
+    {
+      "name": "Benjamin Lim",
+      "role": "Fabrication",
+      "image": "student_images/1004098-pic.jpg",
+      "blurhash": "yTJ8V0_3~qt7xuayay?bWBWBayM{WBRj9FM{of%Mxuofoft7fQWBayofj[fQxuayM{WBj[t7t7WBWBWBoft7fQj[ofj[WBayj[ayRj"
+    },
+    {
+      "name": "Lee Kah Wee",
+      "role": "ASD Coordinator",
+      "image": "about_images/about-kahwee.jpg",
+      "blurhash": "y242M3IU00?b-;D%Rjxuj[Rjj[t7WBWB9Ft7?bD%M{%MWBIUofxuWBRjj[ofofWBoft7M{WBxuayj[ofayWBofoft7ofRjWBxuayRj"
+    },
+    {
+      "name": "Angeline Lin",
+      "role": "ASD Coordinator",
+      "image": "about_images/about-angeline.jpg",
+      "blurhash": "y75}pxIU00_3%M4nt7%MWBM{xuofM{of4nxu?bD%Rj-;RjIUt7%MM{WBxuRjj[ayj[j[WBofofWBj[t7WBRjt7ofofayayoffQWBof"
+    },
+    {
+      "name": "Jeff Chua",
+      "role": "ASD Coordinator",
+      "image": "about_images/about-jeff.jpg",
+      "blurhash": "y86a-c?b4n00IU-;?bayfQofofayWBWB9FM{%M-;ofM{M{IUM{t7%Mxuj[M{WBWBoft7fQRjRj%Mt7M{M{WBt7t7t7ofWBRjWBofof"
+    },
+    {
+      "name": "Evelin Tay",
+      "role": "ASD Coordinator",
+      "image": "about_images/about-evelin.jpg",
+      "blurhash": "y34.9:WB00xu?bD%M{ofWBj[t7t7WBWB9Ft7-;IUIU%Mj[IUfQ%MayM{ofoft7ayWBj[WBofxuxuj[Rjj[j[RjofRjWBj[oft7fQWB"
+    }
+  ]
+}
